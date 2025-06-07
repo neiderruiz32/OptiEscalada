@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OptiEscalada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c34a7685e39fce75016b89409a545e95b98e4605")]
 [assembly: System.Reflection.AssemblyProductAttribute("OptiEscalada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OptiEscalada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|solutionrelative:optiescalada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|c:\\users\\pc\\source\\repos\\optiescalada\\optiescalada\\editarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|solutionrelative:optiescalada\\editarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|c:\\users\\pc\\source\\repos\\optiescalada\\optiescalada\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|solutionrelative:optiescalada\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Elemento.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\Elemento.cs",
               "RelativeDocumentMoniker": "OptiEscalada\\Elemento.cs",
@@ -40,27 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditarRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\EditarRequest.cs",
-              "RelativeDocumentMoniker": "OptiEscalada\\EditarRequest.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\EditarRequest.cs",
-              "RelativeToolTip": "OptiEscalada\\EditarRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:08:36.573Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\Program.cs",
               "RelativeDocumentMoniker": "OptiEscalada\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\Program.cs",
               "RelativeToolTip": "OptiEscalada\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T18:30:30.867Z",
               "EditorCaption": ""

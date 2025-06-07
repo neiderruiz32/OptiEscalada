@@ -68,32 +68,7 @@ class Program
                 }
                 context.Response.StatusCode = 200;
             }
-            else if (url == "/editar" && context.Request.HttpMethod == "POST")
-            {
-                using var reader = new StreamReader(context.Request.InputStream, context.Request.ContentEncoding);
-                string body = reader.ReadToEnd();
 
-                var datos = JsonSerializer.Deserialize<EditarRequest>(body);
-
-                if (datos != null)
-                {
-                    var index = elementos.FindIndex(e => e.Nombre == datos.NombreOriginal);
-                    if (index >= 0)
-                    {
-                        elementos[index] = new Elemento
-                        {
-                            Nombre = datos.Nombre,
-                            Peso = (int)datos.Peso,
-                            Calorias = (int)datos.Calorias
-                        };
-                        context.Response.StatusCode = 200;
-                    }
-                    else
-                    {
-                        context.Response.StatusCode = 404;
-                    }
-                }
-            }
             else if (url == "/eliminar" && context.Request.HttpMethod == "DELETE")
             {
                 using var reader = new StreamReader(context.Request.InputStream, context.Request.ContentEncoding);

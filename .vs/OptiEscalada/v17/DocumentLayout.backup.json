@@ -7,23 +7,8 @@
       "RelativeMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|solutionrelative:optiescalada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|c:\\users\\pc\\source\\repos\\optiescalada\\optiescalada\\editarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|solutionrelative:optiescalada\\editarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|c:\\users\\pc\\source\\repos\\optiescalada\\optiescalada\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|solutionrelative:optiescalada\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|c:\\users\\pc\\source\\repos\\optiescalada\\optiescalada\\optiescalada.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3BED637C-1B10-4BD6-9F60-A05D02AB6409}|OptiEscalada\\OptiEscalada.csproj|solutionrelative:optiescalada\\optiescalada.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\OptiEscalada.Frontend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OptiEscalada\\OptiEscalada.Frontend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,32 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EditarRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\EditarRequest.cs",
-              "RelativeDocumentMoniker": "OptiEscalada\\EditarRequest.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\EditarRequest.cs",
-              "RelativeToolTip": "OptiEscalada\\EditarRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:08:36.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Elemento.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\Elemento.cs",
               "RelativeDocumentMoniker": "OptiEscalada\\Elemento.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\Elemento.cs",
               "RelativeToolTip": "OptiEscalada\\Elemento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T19:05:54.113Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -69,46 +42,9 @@
               "RelativeDocumentMoniker": "OptiEscalada\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\Program.cs",
               "RelativeToolTip": "OptiEscalada\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAtwG0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T18:30:30.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OptiEscalada",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\OptiEscalada.csproj",
-              "RelativeDocumentMoniker": "OptiEscalada\\OptiEscalada.csproj",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\OptiEscalada.csproj",
-              "RelativeToolTip": "OptiEscalada\\OptiEscalada.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-07T18:29:56.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\OptiEscalada.Frontend\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "OptiEscalada\\OptiEscalada.Frontend\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\OptiEscalada\\OptiEscalada\\OptiEscalada.Frontend\\wwwroot\\index.html",
-              "RelativeToolTip": "OptiEscalada\\OptiEscalada.Frontend\\wwwroot\\index.html",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-07T18:20:48.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAM4LAAAAAAAAAAAcwN8LAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-07T17:45:34.584Z",
               "EditorCaption": ""
             }
           ]
