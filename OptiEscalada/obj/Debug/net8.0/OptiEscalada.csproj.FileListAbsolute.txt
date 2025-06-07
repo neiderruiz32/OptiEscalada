@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\obj\Debug\net8.0\OptiEscalada.csproj.ResolveComReference.cache
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\obj\Debug\net8.0\OptiEscalada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\obj\Debug\net8.0\OptiEscalada.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\obj\Debug\net8.0\OptiEscalada.AssemblyInfo.cs
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\obj\Debug\net8.0\OptiEscalada.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\bin\Debug\net8.0\OptiEscalada.exe
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\bin\Debug\net8.0\OptiEscalada.deps.json
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\bin\Debug\net8.0\OptiEscalada.runtimeconfig.json
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\bin\Debug\net8.0\OptiEscalada.dll
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\bin\Debug\net8.0\OptiEscalada.pdb
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\obj\Debug\net8.0\OptiEscalada.dll
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\obj\Debug\net8.0\refint\OptiEscalada.dll
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\obj\Debug\net8.0\OptiEscalada.pdb
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\obj\Debug\net8.0\OptiEscalada.genruntimeconfig.cache
+C:\Users\PC\source\repos\OptiEscalada\OptiEscalada\obj\Debug\net8.0\ref\OptiEscalada.dll
